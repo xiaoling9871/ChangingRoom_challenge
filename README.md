@@ -2,7 +2,7 @@
 
 
 ## what I did:
-Wrote an application to crawl an online fashion brand website: 'WWW.UrbanOutfitters.com' by using crawler framework bs4
+Wrote an application to crawl an online fashion brand website: 'WWW.UrbanOutfitters.com' by using crawler framework bs4.
 Stored the data on an AWS RDS
 
 
